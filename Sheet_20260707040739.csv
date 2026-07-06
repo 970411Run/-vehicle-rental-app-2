@@ -1,0 +1,4 @@
+﻿文件,说明
+ vehicle_rental_app.py ,主程序（Kivy手机APP）
+ buildozer.spec ,安卓打包配置
+ .github/workflows/build-apk.yml ,自动打包脚本
